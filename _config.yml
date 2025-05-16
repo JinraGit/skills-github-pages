@@ -1,0 +1,27 @@
+title: Lars Hostettler
+author: Lars Hostettler
+description: I am a 29-year-old nerd and a programmer apprentice from Switzerland.
+theme: minima
+
+# GitHub Pages Einstellungen
+baseurl: "" # Lass leer, wenn du unter https://<username>.github.io/ deployst
+url: "https://jinragit.github.io"
+
+# Falls du das Repository z. B. my-site genannt hast:
+# baseurl: "/my-site"
+
+# Social links (optional)
+social_links:
+  - name: github
+    url: https://github.com/JinraGit
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation (optional)
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
