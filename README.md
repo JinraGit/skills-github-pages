@@ -10,8 +10,6 @@ _Eine persönliche Entwicklerseite von Lars Hostettler – angehender Informatik
 
 _Super gemacht! Deine GitHub Pages Website ist jetzt live._
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
 Du hast Folgendes erfolgreich umgesetzt:
 
 - GitHub Pages aktiviert  
